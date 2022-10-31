@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("{bugFix}修改3.0");
         System.out.println("{master}主线修改3.0");
         System.out.println("{master}push测试");
+        System.out.println("{master}push测试2.0");
     }
 }
